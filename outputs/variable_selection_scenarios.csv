@@ -1,0 +1,7 @@
+"scenario","n_variables","variables"
+"selected_signal_positive",12,"MFirm;HResistance;EShiny;MChalky;MResistance;EYellow;MMeltdown;EWhite;MButter;MSalt;MSour;MFat"
+"selected_uncorrelated",23,"MFirm;HResistance;EShiny;MChalky;MResistance;EYellow;MMeltdown;EWhite;MButter;MSalt;MSour;MFat;EGrainy;NButter;MCreaminess;NAcidic;NOldmilk;NCream;MCream;MGrainy;MSweet;EGrey;EGreen"
+"selected_top20",20,"MFirm;HResistance;EShiny;MChalky;MResistance;EYellow;MMeltdown;EWhite;MButter;MSalt;MSour;MFat;EGrainy;NButter;MCreaminess;NAcidic;NOldmilk;NCream;MCream;MGrainy"
+"selected_top15",15,"MFirm;HResistance;EShiny;MChalky;MResistance;EYellow;MMeltdown;EWhite;MButter;MSalt;MSour;MFat;EGrainy;NButter;MCreaminess"
+"selected_top10",10,"MFirm;HResistance;EShiny;MChalky;MResistance;EYellow;MMeltdown;EWhite;MButter;MSalt"
+"selected_top8",8,"MFirm;HResistance;EShiny;MChalky;MResistance;EYellow;MMeltdown;EWhite"

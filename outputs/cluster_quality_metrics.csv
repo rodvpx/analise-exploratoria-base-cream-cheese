@@ -1,0 +1,9 @@
+"metric","value"
+"best_silhouette",0.419844399256327
+"best_calinski_harabasz",8.48163489512134
+"best_davies_bouldin",0.789453576479124
+"best_dunn_index",0.700717129605441
+"best_cophenetic_correlation",0.806841018412913
+"bootstrap_ari_mean",0.831998775260257
+"bootstrap_ari_q05",0.429577464788732
+"bootstrap_ari_q95",1

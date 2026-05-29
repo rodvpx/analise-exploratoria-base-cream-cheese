@@ -1,0 +1,10 @@
+"Productname","cluster","representation","method","k"
+"16%'",1,"selected_signal_positive","kmeans",3
+"C-CH",1,"selected_signal_positive","kmeans",3
+"P",1,"selected_signal_positive","kmeans",3
+"P+Ar",1,"selected_signal_positive","kmeans",3
+"24%'",2,"selected_signal_positive","kmeans",3
+"33%'",2,"selected_signal_positive","kmeans",3
+"D-CH",2,"selected_signal_positive","kmeans",3
+"A-Pr",3,"selected_signal_positive","kmeans",3
+"B-Pr",3,"selected_signal_positive","kmeans",3
